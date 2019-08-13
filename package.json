@@ -1,0 +1,7 @@
+{
+  "name": "graphQL",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/awer000/graphQL.git",
+  "license": "MIT"
+}
